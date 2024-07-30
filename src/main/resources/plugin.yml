@@ -1,5 +1,9 @@
 name: kore
 version: '1.0-SNAPSHOT'
-main: com.altoflora.kore
+main: com.altoflora.Kore
 api-version: '1.20'
 authors: [ Altoflora TEAM ]
+commands:
+  micuenta:
+    description: Responde con el nombre de cuenta proporcionado.
+    usage: /micuenta <nombre>

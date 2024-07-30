@@ -1,6 +1,6 @@
 package com.altoflora.utils;
 
-public class console {
+public class Console {
     public static void log(String message) {
         System.out.println(message);
     }
