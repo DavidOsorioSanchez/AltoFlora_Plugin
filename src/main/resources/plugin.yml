@@ -7,3 +7,9 @@ commands:
   micuenta:
     description: Responde con el nombre de cuenta proporcionado.
     usage: /micuenta <nombre>
+  playerinfo:
+    description: Responde con el nombre de cuenta proporcionado.
+    usage: /playerinfo <nombre>
+  playeroffline:
+    description: Responde con el nombre de cuenta proporcionado.
+    usage: /playeroffline <nombre>
